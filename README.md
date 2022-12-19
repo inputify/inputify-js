@@ -1,6 +1,6 @@
 # Inputify
 
-A **simple** and **powerful** javascript library to get inputs. With support for keyboards, MID, and controllers from almost all the consoles (or alternatives). Made with pure javascript to be fast and light 💪.
+A **simple** and **powerful** javascript library to get inputs. With support for keyboards, MIDI, and controllers from almost all the consoles (or alternatives). Made with pure javascript to be fast and light 💪.
 
 ## Installation
 
@@ -29,13 +29,13 @@ Keyboard module get any keyboard input fast and easily. You can also assign all 
 
 [Keyboard overview](https://inputify.vercel.app/modules/keyboard)
 
-### Mid_Module
+### MIDI_Module
 
-> Easily implement MID capture in any website or web app.
+> Easily implement MIDI capture in any website or web app.
 
-MID module is one of the easiest ways to implement and capture MID devices (remember to verify supported devices).
+MIDI module is one of the easiest ways to implement and capture MID devices (remember to verify supported devices).
 
-[MID overview](https://inputify.vercel.app/modules/mid)
+[MIDI overview](https://inputify.vercel.app/modules/midi)
 
 ### Controller_Module
 
