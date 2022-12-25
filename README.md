@@ -25,7 +25,7 @@ Minimal tag script:
 
 > Get any keyboard input rapidly.
 
-Keyboard module get any keyboard input fast and easily. You can also assign all the values into a variable, create auto-typers, hotkeys, create shortcuts and virtual controllers.
+Keyboard module get any keyboard input fast and easily. You can also assign all the values into a variable, create auto-typers, hotkeys, and virtual controllers.
 
 [Keyboard overview](https://inputify.vercel.app/modules/keyboard)
 
